@@ -1,43 +1,77 @@
 <h1 align="center">Hi 👋, I'm Mohd Rehan</h1>
-<h3 align="center">Aspiring Full Stack Developer | Python Enthusiast | Problem Solver</h3>
+<h3 align="center">Aspiring Data Analyst | Future Data Scientist | Python Enthusiast</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-## 🚀 About Me
-
-- 🎓 Computer Science Student
-- 💻 Learning **Full Stack Development**
-- 🌱 Currently improving my skills in **Python, JavaScript, HTML, CSS, SQL**
-- 🔥 Solving coding problems daily
-- 🎯 Goal: Become a Software Engineer
-- ⚡ Fun Fact: I love learning new technologies and building projects.
+<p align="center">
+Turning data into insights 📊 | Learning every day 🚀
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 👨‍💻 About Me
 
-<p align="left">
+- 🎓 Computer Science Student
+- 📊 Aspiring **Data Analyst** and **Data Scientist**
+- 🌱 Currently learning **Python, SQL, Statistics, Power BI, Excel, and Machine Learning**
+- 📈 Passionate about analyzing data and solving real-world business problems
+- 💡 Interested in Data Visualization, Predictive Analytics, and AI
+- 🎯 Goal: Build impactful data-driven solutions and become a Data Scientist
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+---
 
-</p>
+## 🛠️ Skills
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Analysis
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Machine Learning
+- Scikit-Learn
+- Regression
+- Classification
+- Clustering
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
 ## 📚 Currently Learning
 
-- Python
-- JavaScript
-- React.js
-- SQL
-- Data Structures & Algorithms
+- Advanced SQL
+- Power BI Dashboards
+- Python for Data Analysis
+- Statistics
+- Machine Learning
+- Data Visualization
+
+---
+
+## 📂 Featured Projects
+
+🔹 Sales Dashboard using Power BI
+
+🔹 Customer Churn Prediction
+
+🔹 Netflix Data Analysis
+
+🔹 COVID-19 Data Visualization
+
+🔹 House Price Prediction
+
+🔹 Student Performance Analysis
 
 ---
 
@@ -45,9 +79,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohdrehan407&show_icons=true&theme=tokyonight" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=mohdrehan407&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrehan407&layout=compact&theme=tokyonight" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrehan407&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -65,44 +99,42 @@
 
 ## 📈 Contribution Graph
 
-[![Rehan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohdrehan407&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohdrehan407&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📜 Certifications
 
-![](https://github-profile-trophy.vercel.app/?username=mohdrehan407&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-
-<a href="https://github.com/mohdrehan407" target="_blank">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<!-- Add your LinkedIn -->
-<!--
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
--->
-
-<!-- Add your Gmail -->
-<!--
-📧 Email: yourmail@gmail.com
--->
-
-</p>
+- Data Analytics (In Progress)
+- Data Science (In Progress)
+- Python Programming
+- SQL
+- Power BI
 
 ---
 
-## 💡 Quote
+## 🎯 2026 Goals
 
-> "Consistency beats talent when talent doesn't work consistently."
+- ✅ Master SQL
+- ✅ Become an Advanced Python Programmer
+- ✅ Build 20+ Data Analytics Projects
+- ✅ Learn Machine Learning
+- ✅ Contribute to Open Source
+- ✅ Secure a Data Analyst Internship
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Connect with Me
+
+- GitHub: https://github.com/mohdrehan407
+- LinkedIn: *(Add your LinkedIn profile here)*
+
+---
+
+## 💬 Favorite Quote
+
+> "Without data, you're just another person with an opinion." — W. Edwards Deming
+
+---
+
+⭐ Thanks for visiting my GitHub Profile!
